@@ -7,3 +7,12 @@ D:\WS\Programmering\SyntaxHigh\TernarySearchTreeTests\bin\Debug\TernarySearchTre
 D:\WS\Programmering\SyntaxHigh\TernarySearchTreeTests\bin\Debug\System.Reactive.xml
 D:\WS\Programmering\SyntaxHigh\TernarySearchTreeTests\obj\Debug\TernarySearchTreeTests.dll
 D:\WS\Programmering\SyntaxHigh\TernarySearchTreeTests\obj\Debug\TernarySearchTreeTests.pdb
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\TernarySearchTreeTests.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\TernarySearchTreeTests.pdb
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\System.Reactive.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\TernarySearchTree.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\TernarySearchTree.pdb
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\bin\Debug\System.Reactive.xml
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\obj\Debug\ResolveAssemblyReference.cache
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\obj\Debug\TernarySearchTreeTests.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTreeTests\obj\Debug\TernarySearchTreeTests.pdb

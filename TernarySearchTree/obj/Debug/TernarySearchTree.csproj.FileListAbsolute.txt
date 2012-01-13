@@ -5,3 +5,10 @@ D:\WS\Programmering\SyntaxHigh\TernarySearchTree\obj\Debug\TernarySearchTree.dll
 D:\WS\Programmering\SyntaxHigh\TernarySearchTree\obj\Debug\TernarySearchTree.pdb
 D:\WS\Programmering\SyntaxHigh\TernarySearchTree\bin\Debug\System.Reactive.dll
 D:\WS\Programmering\SyntaxHigh\TernarySearchTree\bin\Debug\System.Reactive.xml
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\bin\Debug\TernarySearchTree.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\bin\Debug\TernarySearchTree.pdb
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\bin\Debug\System.Reactive.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\bin\Debug\System.Reactive.xml
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\obj\Debug\ResolveAssemblyReference.cache
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\obj\Debug\TernarySearchTree.dll
+D:\WS\Programmering\TernarySearchTree\TernarySearchTree\obj\Debug\TernarySearchTree.pdb

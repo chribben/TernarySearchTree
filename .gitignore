@@ -1,0 +1,7 @@
+*.ReSharper.user
+src/_ReSharper.*
+*.suo
+bin/
+obj/
+*.csproj.user
+*.tmp_proj
